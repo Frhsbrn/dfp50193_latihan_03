@@ -38,7 +38,7 @@
     </p>
     <h2>
         <?php
-        $bandar = 'Alor Setar';
+        $bandar = 'singapore';
         $baru = '';
         for($x = 0; $x < strlen($bandar); $x++) {
             $baru .= $bandar[$x] . '-';
